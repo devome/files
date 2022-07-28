@@ -9,7 +9,7 @@
 
 ## 流程
 
-- 下载（或者自己复制下来保存为`csv`文件） [这个](https://github.com/devome/files/blob/master/ikuai/ipgroup.csv) 文件（不定期更新），在爱快设置中 `网络设置 -> 终端分组设置 -> IP分组`处导入。
+- 下载（或者点击文件右上角的`Copy raw content`按钮复制下来保存为`csv`文件） [这个](https://github.com/devome/files/blob/master/ikuai/ipgroup.csv) 文件（不定期更新），在爱快设置中 `网络设置 -> 终端分组设置 -> IP分组`处导入。
 
 - 如果使用`3.5.11`及更低的版本，可以使用`安全设置 -> ACL规则`，参考下面的方式，允许你所在地区的对应的运营商的IP转发到你所使用的端口，而阻断其他所有IP访问对应的端口。
 
