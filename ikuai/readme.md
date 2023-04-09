@@ -11,7 +11,7 @@
 
 - 下载（或者点击文件右上角的`Copy raw content`按钮复制下来保存为`csv`文件） [这个](https://github.com/devome/files/blob/master/ikuai/ipgroup.csv) 文件（不定期更新），在爱快设置中 `网络设置 -> 终端分组设置 -> IP分组`处导入。
 
-- 使用`安全设置 -> ACL规则`，参考下面的方式，允许你所在地区的对应的运营商的IP转发到你所使用的端口，而阻断其他所有IP访问对应的端口。
+- 使用`安全设置 -> ACL规则`，参考下面的方式，允许你所在地区的对应的运营商的IP转发到你所使用的端口，而阻断其他所有IP访问对应的端口。**注：图中并未填目的地址，建议填一下对应设备的局域网地址。进接口可以选择对应的wan口，出接口可以选择对应的lan口。**
 
 ![acl](setting1.png)
 
@@ -25,3 +25,7 @@
 2. 需要限制访问来源的服务一般是WEBUI、RDP、SSH等（基本上都是tcp协议），像BT/PT软件（uTorrent, qBittorrent, transmission, deluge等等）等P2P的监听端口（tcp+udp协议）就不要限制访问来源IP；
 3. 爱快路由器自己的WEBUI端口不要限制，要不然万一你IP不在允许范围内，改都都不了；
 4. 建议允许访问的来源IP都选上`未知`的IP分组，尤其是中国移动，除了选择你所在省份，一定要选上`未知移动`。
+
+## IPv6
+
+IPv6的ACL设置请在 [这里](https://www.jianshu.com/p/c762ead45eb2) 查看。
