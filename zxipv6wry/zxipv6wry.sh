@@ -4,10 +4,10 @@ set -o pipefail
 
 ## 目录
 dir_operator=$(dirname $(readlink -f "$0"))
-file_db=$dir_operator/zxipv6wry.db
+file_db="$dir_operator"/zxipv6wry.db
 file_ipv6_all=$(mktemp)
 china=中国
-file_ipv6_china=$dir_operator/${china}.txt
+file_ipv6_china="$dir_operator"/${china}.txt
 operators=(${china}电信 ${china}联通_${china}网通 ${china}移动_${china}铁通 长城宽带_鹏博士)
 
 ## 省份
@@ -72,11 +72,7 @@ for operator in ${operators[@]}; do
 done
 
 ## 删除空文件
-find $dir_operator -type f | while read file; do
-    if [[ ! -s "$file" ]]; then
-        rm "$file"
-    fi
-done
+find "$dir_operator" -type f -size 0c -delete
 
 ## 记录sha256
-sha256sum $file_db > $dir_operator/zxipv6wry.db.sha256sum
+sha256sum "$file_db" > "$dir_operator"/zxipv6wry.db.sha256sum
