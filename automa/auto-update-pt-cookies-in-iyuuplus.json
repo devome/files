@@ -1,0 +1,869 @@
+{
+  "extVersion": "1.28.27",
+  "name": "更新IYUUPLUS中的PT站COOKIE",
+  "icon": "riGlobalLine",
+  "table": [],
+  "version": "1.28.27",
+  "drawflow": {
+    "edges": [
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-6ntvx656ntvx65-output-1-p1yrg7mp1yrg7m-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "oMHUIdhXna6Ia5gpk1HPj",
+        "sourceHandle": "oMHUIdhXna6Ia5gpk1HPj-output-1",
+        "sourceX": 304.1781613637436,
+        "sourceY": 133.23943361026198,
+        "target": "julii94",
+        "targetHandle": "julii94-input-1",
+        "targetX": 370.3809573190383,
+        "targetY": 134.88763384739187,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-p1yrg7mp1yrg7m-output-1-4cakrup4cakrup-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "p1yrg7m",
+        "sourceHandle": "p1yrg7m-output-1",
+        "sourceX": 306.4718961901373,
+        "sourceY": 290.69359838462753,
+        "target": "4cakrup",
+        "targetHandle": "4cakrup-input-1",
+        "targetX": 379.3932186591502,
+        "targetY": 290.60413724468276,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-4cakrup4cakrup-output-1-wcjgh0ewcjgh0e-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "4cakrup",
+        "sourceHandle": "4cakrup-output-1",
+        "sourceX": 611.3624569404002,
+        "sourceY": 290.60413724468276,
+        "target": "wcjgh0e",
+        "targetHandle": "wcjgh0e-input-1",
+        "targetX": 690.586598200215,
+        "targetY": 304.18051977385676,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-wcjgh0ewcjgh0e-output-1-nn3sn0znn3sn0z-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "wcjgh0e",
+        "sourceHandle": "wcjgh0e-output-1",
+        "sourceX": 922.555836481465,
+        "sourceY": 304.18051977385676,
+        "target": "nn3sn0z",
+        "targetHandle": "nn3sn0z-input-1",
+        "targetX": 992.5566889773313,
+        "targetY": 289.13172213458887,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-nn3sn0znn3sn0z-output-1-9zvw1g69zvw1g6-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "nn3sn0z",
+        "sourceHandle": "nn3sn0z-output-1",
+        "sourceX": 1224.5259272585813,
+        "sourceY": 289.13172213458887,
+        "target": "9zvw1g6",
+        "targetHandle": "9zvw1g6-input-1",
+        "targetX": 70.38110918422478,
+        "targetY": 534.9618396108374,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-9zvw1g69zvw1g6-output-1-3i8lh8f3i8lh8f-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "9zvw1g6",
+        "sourceHandle": "9zvw1g6-output-1",
+        "sourceX": 302.3503474654748,
+        "sourceY": 534.9618396108374,
+        "target": "ri4pzfm",
+        "targetHandle": "ri4pzfm-input-1",
+        "targetX": 366.27776903363133,
+        "targetY": 536.0109515714852,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "class": "connected-edges",
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-kygxow7kygxow7-output-fallback-y7hg2aby7hg2ab-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "kygxow7",
+        "sourceHandle": "kygxow7-output-fallback",
+        "sourceX": 929.1770199451043,
+        "sourceY": 513.7120792615726,
+        "target": "y7hg2ab",
+        "targetHandle": "y7hg2ab-input-1",
+        "targetX": 959.3817650115766,
+        "targetY": 537.8785771782436,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "class": "connected-edges",
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-y7hg2aby7hg2ab-output-fallback-314qug2314qug2-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "y7hg2ab",
+        "sourceHandle": "y7hg2ab-output-fallback",
+        "sourceX": 1255.3529564178266,
+        "sourceY": 604.2873906548061,
+        "target": "314qug2",
+        "targetHandle": "314qug2-input-1",
+        "targetX": 63.58796252524667,
+        "targetY": 744.9676613848537,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-ri4pzfmri4pzfm-output-YEOFV6Njmiupiz2qK031z-kygxow7kygxow7-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "ri4pzfm",
+        "sourceHandle": "ri4pzfm-output-YEOFV6Njmiupiz2qK031z",
+        "sourceX": 663.2597026273813,
+        "sourceY": 560.4219623136727,
+        "target": "kygxow7",
+        "targetHandle": "kygxow7-input-1",
+        "targetX": 697.2076595935418,
+        "targetY": 491.69736978891643,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-ri4pzfmri4pzfm-output-fallback-z0v83cbz0v83cb-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "ri4pzfm",
+        "sourceHandle": "ri4pzfm-output-fallback",
+        "sourceX": 662.2490825101938,
+        "sourceY": 602.4197650480477,
+        "target": "z0v83cb",
+        "targetHandle": "z0v83cb-input-1",
+        "targetX": 707.7490161964832,
+        "targetY": 596.4423911041912,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-julii94julii94-output-1-zbueps4zbueps4-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "julii94",
+        "sourceHandle": "julii94-output-1",
+        "sourceX": 602.3502566354446,
+        "sourceY": 134.88763384739187,
+        "target": "6ntvx65",
+        "targetHandle": "6ntvx65-input-1",
+        "targetX": 683.3246600811299,
+        "targetY": 133.54889958741967,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-ds255hsds255hs-output-1-p1yrg7mp1yrg7m-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "ds255hs",
+        "sourceHandle": "ds255hs-output-1",
+        "sourceX": 1222.9945678710938,
+        "sourceY": 133.57089672771963,
+        "target": "p1yrg7m",
+        "targetHandle": "p1yrg7m-input-1",
+        "targetX": 74.50265790888727,
+        "targetY": 290.69359838462753,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-314qug2314qug2-output-1-5j50flg5j50flg-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "314qug2",
+        "sourceHandle": "314qug2-output-1",
+        "sourceX": 295.55720080649667,
+        "sourceY": 744.9676613848537,
+        "target": "6i2hlka",
+        "targetHandle": "6i2hlka-input-1",
+        "targetX": 381.9492517074425,
+        "targetY": 817.6849507650757,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-6ntvx656ntvx65-output-1-ds255hsds255hs-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "6ntvx65",
+        "sourceHandle": "6ntvx65-output-1",
+        "sourceX": 915.2938983623799,
+        "sourceY": 133.54889958741967,
+        "target": "ds255hs",
+        "targetHandle": "ds255hs-input-1",
+        "targetX": 991.0253295898438,
+        "targetY": 133.57089672771963,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-6i2hlka6i2hlka-output-1-5j50flg5j50flg-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "6i2hlka",
+        "sourceHandle": "6i2hlka-output-1",
+        "sourceX": 613.9184899886925,
+        "sourceY": 817.6849507650757,
+        "target": "5j50flg",
+        "targetHandle": "5j50flg-input-1",
+        "targetX": 709.4247844103793,
+        "targetY": 818.302417379546,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-z0v83cbz0v83cb-output-1-6i2hlka6i2hlka-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "z0v83cb",
+        "sourceHandle": "z0v83cb-output-1",
+        "sourceX": 939.7182544777332,
+        "sourceY": 596.4423911041912,
+        "target": "6i2hlka",
+        "targetHandle": "6i2hlka-input-1",
+        "targetX": 381.9492517074425,
+        "targetY": 817.6849507650757,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-kygxow7kygxow7-output-1-6i2hlka6i2hlka-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "kygxow7",
+        "sourceHandle": "kygxow7-output-1",
+        "sourceX": 929.1770199451043,
+        "sourceY": 491.69736978891643,
+        "target": "6i2hlka",
+        "targetHandle": "6i2hlka-input-1",
+        "targetX": 381.9492517074425,
+        "targetY": 817.6849507650757,
+        "type": "custom",
+        "updatable": true
+      },
+      {
+        "class": "connected-edges",
+        "data": {},
+        "events": {},
+        "id": "vueflow__edge-y7hg2aby7hg2ab-output-82gyB9AKIdFCnen5hSEL_-6i2hlka6i2hlka-input-1",
+        "markerEnd": "arrowclosed",
+        "selectable": true,
+        "source": "y7hg2ab",
+        "sourceHandle": "y7hg2ab-output-82gyB9AKIdFCnen5hSEL_",
+        "sourceX": 1256.363576535014,
+        "sourceY": 562.2895879204311,
+        "target": "6i2hlka",
+        "targetHandle": "6i2hlka-input-1",
+        "targetX": 381.9492517074425,
+        "targetY": 817.6849507650757,
+        "type": "custom",
+        "updatable": true
+      }
+    ],
+    "nodes": [
+      {
+        "data": {
+          "activeInInput": false,
+          "contextMenuName": "",
+          "contextTypes": [],
+          "date": "",
+          "days": [],
+          "delay": 5,
+          "description": "",
+          "disableBlock": false,
+          "interval": 60,
+          "isUrlRegex": false,
+          "observeElement": {
+            "baseElOptions": {
+              "attributeFilter": [],
+              "attributes": false,
+              "characterData": false,
+              "childList": true,
+              "subtree": false
+            },
+            "baseSelector": "",
+            "matchPattern": "",
+            "selector": "",
+            "targetOptions": {
+              "attributeFilter": [],
+              "attributes": false,
+              "characterData": false,
+              "childList": true,
+              "subtree": false
+            }
+          },
+          "parameters": [],
+          "preferParamsInTab": false,
+          "shortcut": "",
+          "time": "00:00",
+          "triggers": [
+            {
+              "data": {
+                "activeInInput": false,
+                "contextMenuName": "",
+                "contextTypes": [],
+                "date": "",
+                "days": [],
+                "delay": 5,
+                "description": "",
+                "disableBlock": false,
+                "interval": 60,
+                "isUrlRegex": false,
+                "observeElement": {
+                  "baseElOptions": {
+                    "attributeFilter": [],
+                    "attributes": false,
+                    "characterData": false,
+                    "childList": true,
+                    "subtree": false
+                  },
+                  "baseSelector": "",
+                  "matchPattern": "",
+                  "selector": "",
+                  "targetOptions": {
+                    "attributeFilter": [],
+                    "attributes": false,
+                    "characterData": false,
+                    "childList": true,
+                    "subtree": false
+                  }
+                },
+                "parameters": [],
+                "preferParamsInTab": false,
+                "shortcut": "",
+                "time": "00:00",
+                "type": "manual",
+                "url": ""
+              },
+              "id": "Ja8ov",
+              "type": "manual"
+            },
+            {
+              "data": null,
+              "id": "tePvm",
+              "type": "on-startup"
+            }
+          ],
+          "type": "manual",
+          "url": ""
+        },
+        "events": {},
+        "id": "oMHUIdhXna6Ia5gpk1HPj",
+        "label": "trigger",
+        "position": {
+          "x": 92.19198582663421,
+          "y": 97.2600177167073
+        },
+        "type": "BlockBasic"
+      },
+      {
+        "data": {
+          "description": "启动2级循环，即当前站点的Cookie的全部字段，每个站点的Cookie的字段数量不一样。",
+          "disableBlock": false,
+          "elementSelector": "",
+          "fromNumber": 1,
+          "loopData": "[]",
+          "loopId": "nUsAXX",
+          "loopThrough": "variable",
+          "maxLoop": 0,
+          "referenceKey": "",
+          "resumeLastWorkflow": false,
+          "reverseLoop": false,
+          "startIndex": 0,
+          "toNumber": 10,
+          "variableName": "cookie",
+          "waitForSelector": false,
+          "waitSelectorTimeout": 5000
+        },
+        "events": {},
+        "id": "p1yrg7m",
+        "label": "loop-data",
+        "position": {
+          "x": 94.4857206530279,
+          "y": 252.70336400962756
+        },
+        "type": "BlockBasic"
+      },
+      {
+        "data": {
+          "$breakpoint": false,
+          "deleteList": [
+            {
+              "columnId": "[all]",
+              "type": "table",
+              "variableName": ""
+            },
+            {
+              "columnId": "[all]",
+              "type": "variable",
+              "variableName": "cookie"
+            }
+          ],
+          "description": "清空记录",
+          "disableBlock": false
+        },
+        "events": {},
+        "id": "6ntvx65",
+        "label": "delete-data",
+        "position": {
+          "x": 703.3076923076924,
+          "y": 97.5486401880056
+        },
+        "type": "BlockBasic"
+      },
+      {
+        "data": {
+          "dataList": [
+            {
+              "action": "default",
+              "filePath": "",
+              "isFile": false,
+              "name": "yOX_M",
+              "type": "table",
+              "value": "{{variables.cookie.[loopData.nUsAXX.$index].name}}={{variables.cookie.[loopData.nUsAXX.$index].value}}"
+            }
+          ],
+          "description": "将每个cookie字段写入表中",
+          "disableBlock": false
+        },
+        "events": {},
+        "id": "4cakrup",
+        "label": "insert-data",
+        "position": {
+          "x": 399.3762508857127,
+          "y": 254.60389310405776
+        },
+        "type": "BlockBasic"
+      },
+      {
+        "data": {
+          "clearLoop": false,
+          "disableBlock": false,
+          "loopId": "nUsAXX",
+          "settings": {
+            "blockTimeout": 0,
+            "debugMode": false
+          }
+        },
+        "events": {},
+        "id": "wcjgh0e",
+        "label": "loop-breakpoint",
+        "position": {
+          "x": 710.5696304267775,
+          "y": 228.7975546859661
+        },
+        "type": "BlockLoopBreakpoint"
+      },
+      {
+        "data": {
+          "dataList": [
+            {
+              "action": "default",
+              "filePath": "",
+              "isFile": false,
+              "name": "yOX_M",
+              "type": "table",
+              "value": "!!{{$filter([table], \"$..content\")}}"
+            }
+          ],
+          "description": "将Cookie全部字段组合成一个字符串，并写入表的最后一行。",
+          "disableBlock": false
+        },
+        "events": {},
+        "id": "nn3sn0z",
+        "label": "insert-data",
+        "position": {
+          "x": 1012.5397212038938,
+          "y": 253.13147799396387
+        },
+        "type": "BlockBasic"
+      },
+      {
+        "data": {
+          "dataList": [
+            {
+              "action": "default",
+              "filePath": "",
+              "isFile": false,
+              "name": "yOX_M",
+              "type": "table",
+              "value": "{{ $replaceAll( [table.$last.content], \",\", \"; \") }}"
+            }
+          ],
+          "description": "将前一步组合而成的字符串中的逗号替换为分号加空格，这才是可以后续可以使用的Cookie的形式。",
+          "disableBlock": false
+        },
+        "events": {},
+        "id": "9zvw1g6",
+        "label": "insert-data",
+        "position": {
+          "x": 90.36417192836541,
+          "y": 498.9615954702124
+        },
+        "type": "BlockBasic"
+      },
+      {
+        "data": {
+          "assignVariable": true,
+          "body": "{\n  \"id\": \"{{ variables.$$sites.[loopData.Atxo9S.$index].id }}\",\n  \"cookie\": \"{{ table.$last.content }}\"\n}",
+          "contentType": "json",
+          "dataColumn": "",
+          "dataPath": "msg",
+          "description": "如果已经登陆则向iyuuplus更新cookie",
+          "disableBlock": false,
+          "headers": [],
+          "method": "POST",
+          "responseType": "json",
+          "saveData": false,
+          "timeout": 10000,
+          "url": "{{ variables.$$iyuuplus_url }}/admin/site/update",
+          "variableName": "result"
+        },
+        "events": {},
+        "id": "kygxow7",
+        "label": "webhook",
+        "position": {
+          "x": 717.1908138904168,
+          "y": 443.6947452771977
+        },
+        "type": "BlockBasicWithFallback"
+      },
+      {
+        "data": {
+          "conditions": [
+            {
+              "conditions": [
+                {
+                  "conditions": [
+                    {
+                      "id": "0Ru9JgFKiB3Jmd4LKZHnT",
+                      "items": [
+                        {
+                          "category": "value",
+                          "data": {
+                            "value": "{{ variables.result }}"
+                          },
+                          "id": "FpzSvlgIOOUTkUU50_xg9",
+                          "type": "value"
+                        },
+                        {
+                          "category": "compare",
+                          "id": "j07d077SZL9AK4UGrgtBd",
+                          "type": "eq"
+                        },
+                        {
+                          "category": "value",
+                          "data": {
+                            "value": "ok"
+                          },
+                          "id": "h3wS9a474Il8Wo7ksRt-T",
+                          "type": "value"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "5RVZx1l0IyOhJDRWztWD6"
+                }
+              ],
+              "id": "82gyB9AKIdFCnen5hSEL_",
+              "name": "如果是ok"
+            }
+          ],
+          "description": "判断iyuuplus返回消息中的msg字段是否是ok，如果是ok表示提交成功，但成功时在本工作流中不发送通知，只在失败时才发送通知。成功时会等待500毫秒，然后才进入下一次循环。",
+          "disableBlock": false,
+          "retryConditions": false,
+          "retryCount": 10,
+          "retryTimeout": 1000
+        },
+        "events": {},
+        "id": "y7hg2ab",
+        "label": "conditions",
+        "position": {
+          "x": 979.3647972381391,
+          "y": 445.48187918019676
+        },
+        "type": "BlockConditions"
+      },
+      {
+        "data": {
+          "description": "如果向iyuuplus提交Cookie不成功",
+          "disableBlock": false,
+          "iconUrl": "{{ variables.$$sites.[loopData.Atxo9S.$index].url }}/favicon.ico",
+          "imageUrl": "",
+          "message": "向iyuuplus更新{{ variables.$$sites.[loopData.Atxo9S.$index].site }}的Cookie失败，请检查是否你已在本浏览器中成功登陆iyuuplus管理后台。",
+          "title": "{{ variables.$$sites.[loopData.Atxo9S.$index].site }}更新cookie失败"
+        },
+        "events": {},
+        "id": "314qug2",
+        "label": "notification",
+        "position": {
+          "x": 83.57102526938729,
+          "y": 708.9674172442287
+        },
+        "type": "BlockBasic"
+      },
+      {
+        "data": {
+          "conditions": [
+            {
+              "conditions": [
+                {
+                  "conditions": [
+                    {
+                      "id": "q_mNVVVtmP3LYOKPNOqFh",
+                      "items": [
+                        {
+                          "category": "value",
+                          "data": {
+                            "value": "{{ table.$last.content }}"
+                          },
+                          "id": "-zhzSDZlb6mxVzuct7hZj",
+                          "type": "value"
+                        },
+                        {
+                          "category": "compare",
+                          "id": "Ke3Pp5FtubAlUBBkOSXWN",
+                          "type": "cnt"
+                        },
+                        {
+                          "category": "value",
+                          "data": {
+                            "value": "{{ variables.$$sites.[loopData.Atxo9S.$index].key_content }}"
+                          },
+                          "id": "3nLx2oPU_qv2WK3SkSVot",
+                          "type": "value"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "B--5oPDlCw4koMCsHD6Rn"
+                }
+              ],
+              "id": "YEOFV6Njmiupiz2qK031z",
+              "name": "如果包含了设置的关键字段"
+            }
+          ],
+          "description": "检查前一步组合而成的字符串中是否含有在$$sites全局变量中设置的key_content，来判断是否已成功登陆。注意，这种判断并不完全准确，仅供参考。",
+          "disableBlock": false,
+          "retryConditions": false,
+          "retryCount": 10,
+          "retryTimeout": 1000
+        },
+        "events": {},
+        "id": "ri4pzfm",
+        "label": "conditions",
+        "position": {
+          "x": 386.26080126019383,
+          "y": 443.61428409101643
+        },
+        "type": "BlockConditions"
+      },
+      {
+        "data": {
+          "description": "如果没有登陆则向操作系统发送通知",
+          "disableBlock": false,
+          "iconUrl": "{{ variables.$$sites.[loopData.Atxo9S.$index].url }}/favicon.ico",
+          "imageUrl": "",
+          "message": "{{ variables.$$sites.[loopData.Atxo9S.$index].site }}还没有登陆，无法获取到Cookie，请先登陆。",
+          "title": "{{ variables.$$sites.[loopData.Atxo9S.$index].site }}还没有登陆"
+        },
+        "events": {},
+        "id": "z0v83cb",
+        "label": "notification",
+        "position": {
+          "x": 727.7320484230457,
+          "y": 560.4421469635662
+        },
+        "type": "BlockBasic"
+      },
+      {
+        "data": {
+          "description": "启动1级循环，即全局变量$$sites总共的站点数量。",
+          "disableBlock": false,
+          "elementSelector": "",
+          "fromNumber": 1,
+          "loopData": "[]",
+          "loopId": "Atxo9S",
+          "loopThrough": "variable",
+          "maxLoop": 0,
+          "referenceKey": "0",
+          "resumeLastWorkflow": false,
+          "reverseLoop": false,
+          "startIndex": 0,
+          "toNumber": 10,
+          "variableName": "$$sites",
+          "waitForSelector": false,
+          "waitSelectorTimeout": 5000
+        },
+        "events": {},
+        "id": "julii94",
+        "label": "loop-data",
+        "position": {
+          "x": 390.36405058075707,
+          "y": 96.89739947239187
+        },
+        "type": "BlockBasic"
+      },
+      {
+        "data": {
+          "$breakpoint": false,
+          "clearLoop": false,
+          "disableBlock": false,
+          "loopId": "Atxo9S",
+          "onError": {
+            "dataToInsert": [],
+            "enable": false,
+            "insertData": false,
+            "retry": false,
+            "retryInterval": 2,
+            "retryTimes": 1,
+            "toDo": "error"
+          },
+          "settings": {
+            "blockTimeout": 0,
+            "debugMode": false
+          }
+        },
+        "events": {},
+        "id": "5j50flg",
+        "label": "loop-breakpoint",
+        "position": {
+          "x": 729.4079387072543,
+          "y": 742.9194828092335
+        },
+        "type": "BlockLoopBreakpoint"
+      },
+      {
+        "data": {
+          "assignVariable": true,
+          "dataColumn": "yOX_M",
+          "description": "获取Cookie",
+          "disableBlock": false,
+          "domain": "",
+          "expirationDate": "",
+          "getAll": true,
+          "httpOnly": false,
+          "jsonCode": "{\n\n}",
+          "name": "",
+          "path": "",
+          "sameSite": "",
+          "saveData": false,
+          "secure": false,
+          "session": false,
+          "type": "get",
+          "url": "{{ variables.$$sites.[loopData.Atxo9S.$index].url }}",
+          "useJson": false,
+          "value": "",
+          "variableName": "cookie"
+        },
+        "events": {},
+        "id": "ds255hs",
+        "label": "cookie",
+        "position": {
+          "x": 1011.0083618164062,
+          "y": 97.57063732830557
+        },
+        "type": "BlockBasic"
+      },
+      {
+        "data": {
+          "disableBlock": false,
+          "time": "500"
+        },
+        "events": {},
+        "id": "6i2hlka",
+        "label": "delay",
+        "position": {
+          "x": 401.932283934005,
+          "y": 759.2948750814819
+        },
+        "type": "BlockDelay"
+      }
+    ],
+    "position": [
+      -27.130257999787318,
+      -21.31591001824279
+    ],
+    "viewport": {
+      "x": -27.130257999787318,
+      "y": -21.31591001824279,
+      "zoom": 1.0442210246296615
+    },
+    "zoom": 1.0442210246296615
+  },
+  "settings": {
+    "blockDelay": 0,
+    "debugMode": false,
+    "defaultColumnName": "column",
+    "execContext": "popup",
+    "executedBlockOnWeb": false,
+    "inputAutocomplete": true,
+    "insertDefaultColumn": false,
+    "notification": true,
+    "onError": "stop-workflow",
+    "publicId": "",
+    "restartTimes": 3,
+    "reuseLastState": false,
+    "saveLog": true,
+    "tabLoadTimeout": 30000
+  },
+  "globalData": "{\n\t\"key\": \"value\"\n}",
+  "description": "自动向IYUUPLUS更新那些需要提供Cookie的PT站点的Cookie信息。",
+  "includedWorkflows": {}
+}
