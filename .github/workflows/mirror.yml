@@ -1,0 +1,23 @@
+name: Mirror recollwebui
+
+on: 
+  schedule:
+    - cron: '47 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    name: Mirror recollwebui
+    steps:
+      - name: Clone source repository
+        run: |
+          git clone --mirror https://framagit.org/medoc92/recollwebui.git
+
+      - name: Push mirror
+        env:
+          TOKEN: ${{ secrets.RECOLLWEBUI_MIRROR_TOKEN }}
+        run: |
+          set -euo pipefail
+          cd recollwebui.git
+          git push --mirror https://x-access-token:${TOKEN}@github.com/devome/recollwebui.git
